@@ -18,7 +18,7 @@ body {
   align-items: center;
   min-height: 100vh;
   font-size: 16px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Karla", sans-serif;
 }
 
 ul {
@@ -36,7 +36,9 @@ main {
 }
 
 h2 {
-  color: var(--violet);
+  color: var(--cyan);
+  padding-bottom: 25px;
+  opacity: 0.9;
 }
 
 .community h3 {
