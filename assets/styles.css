@@ -57,12 +57,14 @@ h2 {
 
 .plan {
   display: flex;
+  width: 100%;
 }
 
 .sub {
   padding: 40px;
   background-color: var(--cyan);
   color: #fff;
+  width: 50%;
 }
 
 .sub h3 {
@@ -99,6 +101,7 @@ button {
   background-color: var(--cyan);
   opacity: 0.8;
   color: #fff;
+  width: 50%
 }
 
 .why h3 {
