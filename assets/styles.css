@@ -58,7 +58,11 @@ h2 {
   display: flex;
 }
 
-
+.sub {
+  padding: 40px;
+  background-color: var(--cyan);
+  color: #fff;
+}
 
 footer { 
   font-size: 11px; 
