@@ -73,6 +73,11 @@ h2 {
   display: inline-flex;
 }
 
+.price-p {
+  padding: 8px 0 0 12px;
+  opacity: 0.8;
+}
+
 footer { 
   font-size: 11px; 
   text-align: center; 
