@@ -64,6 +64,11 @@ h2 {
   color: #fff;
 }
 
+.sub h3 {
+  padding-bottom: 20px;
+  opacity: 0.9;
+}
+
 footer { 
   font-size: 11px; 
   text-align: center; 
