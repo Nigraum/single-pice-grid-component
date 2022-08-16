@@ -54,6 +54,12 @@ h2 {
   opacity: 0.7;
 }
 
+.plan {
+  display: flex;
+}
+
+
+
 footer { 
   font-size: 11px; 
   text-align: center; 
