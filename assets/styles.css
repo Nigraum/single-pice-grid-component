@@ -75,6 +75,11 @@ h2 {
 
 .price-p {
   padding: 8px 0 0 12px;
+  opacity: 0.5;
+}
+
+.access {
+  padding: 10px 0 20px 0;
   opacity: 0.8;
 }
 
