@@ -93,6 +93,15 @@ button {
   border: none;
 }
 
+.why {
+  padding: 40px;
+  background-color: var(--cyan);
+  opacity: 0.8;
+  color: #fff;
+}
+
+
+
 footer { 
   font-size: 11px; 
   text-align: center; 
