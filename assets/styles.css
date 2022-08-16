@@ -96,7 +96,7 @@ button {
   font-size: 1rem;
   font-weight: 700;
   box-shadow: 0 15px 20px 10px rgba(37, 43, 70, 0.1);
-  transition: ease-in-out 0.2s;
+  transition: ease-in-out 0.3s;
 }
 
 button:hover {
