@@ -29,6 +29,7 @@ main {
   width: 700px;
   border-radius: 12px;
   box-shadow: 0 15px 20px 10px rgba(37, 43, 70, 0.1);
+  overflow: hidden;
 }
 
 .community {
@@ -74,12 +75,12 @@ h2 {
 }
 
 .price-p {
-  padding: 8px 0 0 12px;
+  padding: 8px 0px 0px 12px;
   opacity: 0.5;
 }
 
 .access {
-  padding: 10px 0 20px 0;
+  padding: 10px 0px 20px 0px;
   opacity: 0.8;
 }
 
