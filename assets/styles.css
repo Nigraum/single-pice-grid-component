@@ -83,6 +83,16 @@ h2 {
   opacity: 0.8;
 }
 
+button {
+  margin-top: 20px;
+  width: 100%;
+  padding: 15px;
+  border-radius: 5px;
+  background-color: var(--bright-yellow);
+  color: #fff;
+  border: none;
+}
+
 footer { 
   font-size: 11px; 
   text-align: center; 
